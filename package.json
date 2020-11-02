@@ -1,0 +1,29 @@
+{
+  "name": "cypress-qaconsole-reporter",
+  "version": "1.0.0",
+  "description": "Send test results from cypress.io to qaconsole.com",
+  "main": "cypress-qaconsole-reporter.js",
+  "dependencies": {
+    "axios": "^0.21.0",
+    "np": "^7.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"No test specified\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/best4test/cypress-qaconsole-reporter.git"
+  },
+  "keywords": [
+    "cypress",
+    "qaconsole",
+    "test-automation"
+  ],
+  "author": "best4test <sebastian.ostrowski@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/best4test/cypress-qaconsole-reporter/issues"
+  },
+  "homepage": "https://github.com/best4test/cypress-qaconsole-reporter#readme"
+}
